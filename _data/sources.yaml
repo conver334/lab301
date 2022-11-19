@@ -1,11 +1,11 @@
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1145/3338906.3338932
+  image: https://i0.hdslb.com/bfs/banner/d605e2d465679d6b5e4a92b15147fea742b371f2.jpg@976w_550h_1c_!web-home-carousel-cover.avif
   date: 2020-6-2
   extra-links:
     - type: manubot
       link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-    - knowledge graphs
+    - 需求建模
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
