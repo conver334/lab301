@@ -1,21 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1145/3338906.3338932
+  title: Finding and understanding bugs in software model checkers
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
+  - Chengyu Zhang
+  - Ting Su
+  - Yichen Yan
+  - Fuyuan Zhang
+  - Geguang Pu
+  - Zhendong Su
+  publisher: Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering
+    Conference and Symposium on the Foundations of Software Engineering
   date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  link: https://doi.org/gq867p
+  image: https://i0.hdslb.com/bfs/banner/d605e2d465679d6b5e4a92b15147fea742b371f2.jpg@976w_550h_1c_!web-home-carousel-cover.avif
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+  - "\u9700\u6C42\u5EFA\u6A21"
+  _cache: 9f7becaa762c90f79acf4ebf4ae8ecb5b00127e0bba5e71ed3484b0957b97c32
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
