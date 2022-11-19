@@ -5,7 +5,6 @@ title: Smart Software Engineering Lab
 subtitle: at East China Normal University
 description: Smart Software Engineering Laboratory of East China Normal University 
 logo: images/basic/301logo.png
-logo-text: false
 header: images/basic/headerback.jpg
 footer: none
 baseurl: /lab301
@@ -13,7 +12,7 @@ baseurl: /lab301
 # site social media and other links
 links:
   email: jane.smith@your-lab.com
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: niQAGcQAAAAJ
 
 ### advanced settings
 
