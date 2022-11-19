@@ -1,33 +1,105 @@
-- id: doi:10.1145/3338906.3338932
-  image: images/fake.png
-  date: 2020-6-2
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/knowledge-graph-review/
+- id: doi:10.1145/3368089.3417047
+  image: images/paperimage/FREPA.jpg
   tags:
-    - 需求建模
+    - Requirement Analysis
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
-  extra-links:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+- id: doi:10.1145/3183519.3183554
+  image: images/paperimage/Smartunit.jpg
+  tags:
+    - Software Analysis and Testing
 
-- id: doi:10.7554/eLife.32822
-  image: images/fake.png
+- id: doi:10.1145/3338906.3338932
+  image: images/paperimage/MCFuzz.jpg
+  tags:
+    - Software Analysis and Testing
   extra-links:
-    - type: preprint
-      link: https://doi.org/10.7287/peerj.preprints.3100v1
-    - type: manubot
-      link: https://greenelab.github.io/scihub-manuscript/
     - type: source
-      link: https://github.com/greenelab/scihub-manuscript
-      text: Manuscript source
+      link: https://github.com/muchang/Hammer
+
+- id: doi:10.1145/3385412.3385985
+  image: images/paperimage/SMTSolver.jpg
+  tags:
+    - Software Analysis and Testing
+  extra-links:
     - type: source
-      link: https://github.com/greenelab/scihub
-      text: Analyses source
+      link: https://testsmt.github.io/
+
+- id: doi:10.1109/TSE.2020.3013438
+  image: images/paperimage/whyAppCrash.jpg
+  tags:
+    - Software Analysis and Testing
+
+- id: doi:10.1145/3460319.3464806
+  image: images/paperimage/appSettingBug.jpg
+  tags:
+    - Software Analysis and Testing
+  extra-links:
+    - type: source
+      link: https://github.com/setting-defect-fuzzing/home
+
+- id: doi:10.1145/3485533
+  image: images/paperimage/fuzzapp.jpg
+  tags:
+    - Software Analysis and Testing
+  extra-links:
+    - type: source
+      link: https://github.com/functional-fuzzing-android-apps/home
+
+- id: doi:10.1145/3324884.3416569
+  image: images/paperimage/ALLSAT.jpg
+  tags:
+    - Software Analysis and Testing
+
+- id: url:https://iew.technion.ac.il/~ofers/publications/ICCAD_2022.pdf
+  image: images/paperimage/bmc_car.jpg
+  tags:
+    - Verification
+
+- id: doi:10.5555/3199700.3199713
+  image: images/paperimage/car.jpg
+  tags:
+    - Verification
+  extra-links:
+    - type: source
+      link: https://github.com/lijwen2748/simplecar
+
+- id: doi:10.1609/aaai.v35i7.16809
+  image: images/paperimage/onthefly.jpg
+  tags:
+    - Logic
+
+- id: arxiv:1811.03176
+  image: images/paperimage/ltlfsat.jpg
+  tags:
+    - Logic
+
+- id: doi:10.1007/s10703-018-00326-5
+  image: images/paperimage/ltlsat.jpg
+  tags:
+    - Logic
+
+- id: doi:10.5555/3171642.3171835
+  image: images/paperimage/symbolic.jpg
+  tags:
+    - Logic
+
+- id: doi:10.1145/3474085.3475171
+  image: images/paperimage/AdvFilter.jpg
+  tags:
+    - Computer Vision
+
+- id: arxiv:2201.06070
+  image: images/paperimage/ALA.jpg
+  tags:
+    - Computer Vision
+
+- id: arxiv:2001.09598
+  image: images/paperimage/FakeLocator.jpg
+  tags:
+    - Computer Vision
+
+- id: doi:10.1145/3394171.3413732
+  image: images/paperimage/FakePolisher.jpg
+  tags:
+    - Computer Vision
+

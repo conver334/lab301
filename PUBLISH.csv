@@ -1,0 +1,19 @@
+﻿id,image,tags,source
+doi:10.1145/3368089.3417047,FREPA.jpg,Requirement Analysis,
+doi:10.1145/3183519.3183554,Smartunit.jpg,Software Analysis and Testing,
+doi:10.1145/3338906.3338932,MCFuzz.jpg,Software Analysis and Testing,https://github.com/muchang/Hammer
+doi:10.1145/3385412.3385985,SMTSolver.jpg,Software Analysis and Testing,https://testsmt.github.io/
+doi:10.1109/TSE.2020.3013438,whyAppCrash.jpg,Software Analysis and Testing,
+doi:10.1145/3460319.3464806,appSettingBug.jpg,Software Analysis and Testing,https://github.com/setting-defect-fuzzing/home
+doi:10.1145/3485533,fuzzapp.jpg,Software Analysis and Testing,https://github.com/functional-fuzzing-android-apps/home
+doi:10.1145/3324884.3416569,ALLSAT.jpg,Software Analysis and Testing,
+url:https://iew.technion.ac.il/~ofers/publications/ICCAD_2022.pdf,bmc_car.jpg,Verification,
+doi:10.5555/3199700.3199713,car.jpg,Verification,https://github.com/lijwen2748/simplecar
+doi:10.1609/aaai.v35i7.16809,onthefly.jpg,Logic,
+arxiv:1811.03176,ltlfsat.jpg,Logic,
+doi:10.1007/s10703-018-00326-5,ltlsat.jpg,Logic,
+doi:10.5555/3171642.3171835,symbolic.jpg,Logic,
+doi:10.1145/3474085.3475171,AdvFilter.jpg,Computer Vision,
+arxiv:2201.06070,ALA.jpg,Computer Vision,
+arxiv:2001.09598,FakeLocator.jpg,Computer Vision,
+doi:10.1145/3394171.3413732,FakePolisher.jpg,Computer Vision,
