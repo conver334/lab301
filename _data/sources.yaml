@@ -57,7 +57,7 @@
   tags:
     - Verification
 
-- id: doi:10.5555/3199700.3199713
+- id: doi:10.1109/ICCAD.2017.8203765
   image: images/paperimage/car.jpg
   tags:
     - Verification
@@ -80,11 +80,6 @@
   tags:
     - Logic
 
-- id: doi:10.5555/3171642.3171835
-  image: images/paperimage/symbolic.jpg
-  tags:
-    - Logic
-
 - id: doi:10.1145/3474085.3475171
   image: images/paperimage/AdvFilter.jpg
   tags:
@@ -97,11 +92,6 @@
 
 - id: arxiv:2001.09598
   image: images/paperimage/FakeLocator.jpg
-  tags:
-    - Computer Vision
-
-- id: doi:10.1145/3394171.3413732
-  image: images/paperimage/FakePolisher.jpg
   tags:
     - Computer Vision
 
