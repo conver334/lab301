@@ -1,6 +1,6 @@
-pi:
+faculty:
   icon: fas fa-microscope
-  text: Principal Investigator
+  text: Faculty
 
 postdoc:
   icon: fas fa-glasses
@@ -14,10 +14,10 @@ undergrad:
   icon: fas fa-user-graduate
   text: Undergraduate Student
 
-programmer:
+master:
   icon: fas fa-code
-  text: Programmer
+  text: Master Student
 
-mascot:
+alumni:
   icon: fas fa-dog
-  text: Mascot
+  text: Alumni
