@@ -14,13 +14,13 @@
     Conference and Symposium on the Foundations of Software Engineering
   date: '2020-06-02'
   link: https://doi.org/gq867p
-  image: https://i0.hdslb.com/bfs/banner/d605e2d465679d6b5e4a92b15147fea742b371f2.jpg@976w_550h_1c_!web-home-carousel-cover.avif
+  image: images/fake.png
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
   tags:
   - "\u9700\u6C42\u5EFA\u6A21"
-  _cache: 9f7becaa762c90f79acf4ebf4ae8ecb5b00127e0bba5e71ed3484b0957b97c32
+  _cache: 3a5d6bd4a0fc7c52262a513bab5fea1bb7eb5289ce95dd2759692811277ab2f8
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
