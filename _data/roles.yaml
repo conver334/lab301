@@ -11,7 +11,7 @@ phd:
   text: PhD Student
 
 undergrad:
-  icon: fas fa-user-graduate
+  icon: fas fa-dog
   text: Undergraduate Student
 
 master:
@@ -19,5 +19,5 @@ master:
   text: Master Student
 
 alumni:
-  icon: fas fa-dog
+  icon: fas fa-user-graduate
   text: Alumni

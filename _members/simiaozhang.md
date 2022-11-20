@@ -12,6 +12,6 @@ links:
 
 # about me
 
-Hello. I am a Master student in Software Engineering at ECNU, advised by Geguang Pu in the SSEL. ヾ(✿ﾟ▽ﾟ)ノ I used to be a ACMer and Product Manager in TWT Studio, and I love design&develope product.
+Hello. I am a Master student in Software Engineering at ECNU, advised by Geguang Pu and Yueling Zhang in the SSEL. ヾ(✿ﾟ▽ﾟ)ノ I used to be a ACMer and Product Manager in TWT Studio, and I love design&develope product.
 
 My research interest is AI Fairness.
