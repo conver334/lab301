@@ -23,7 +23,6 @@ We are located at the Office 301 of the Math Building and the Office 416 of the 
   link="lab301ecnu@163.com"
   style="button"
 %}
-
 {%
   include link.html
   type="address"
@@ -33,8 +32,6 @@ We are located at the Office 301 of the Math Building and the Office 416 of the 
   link="https://goo.gl/maps/SX2gfADgAWSJXTUr6"
   style="button"
 %}
-
-
 {%
   include link.html
   type="address"
