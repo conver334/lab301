@@ -28,7 +28,7 @@ How's our documentation?
   - citations
   - ...and many more!
 - A **home page**, where you can highlight the most important things that make your lab special
-- A **research page**, with a sorted, searchable list of all your published works
+- A ** page**, with a sorted, searchable list of all your published works
 - A **tools page**, where you can show off your software, datasets, or other useful things
 - A **team** page, compiled automatically from individual members
 - Individual **team member pages** with bios, assignable roles, and social media links

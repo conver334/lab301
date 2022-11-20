@@ -39,7 +39,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include link.html
-  link="research"
+  link=""
   text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
@@ -50,8 +50,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  link=""
+  title="Our "
   text=text
 %}
 

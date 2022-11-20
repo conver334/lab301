@@ -52,11 +52,6 @@
   tags:
     - Software Analysis and Testing
 
-- id: url:https://iew.technion.ac.il/~ofers/publications/ICCAD_2022.pdf
-  image: images/paperimage/bmc_car.jpg
-  tags:
-    - Verification
-
 - id: doi:10.1109/ICCAD.2017.8203765
   image: images/paperimage/car.jpg
   tags:
