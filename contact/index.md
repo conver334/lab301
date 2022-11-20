@@ -7,13 +7,14 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Shanghai Key Laboratory of Trustworthy Computing](http://20141022090616.51eweb.com/), at the school of [East China Normal University](https://sei.ecnu.edu.cn/).
+Our lab is part of the [Software Engineering Institute](https://sei.ecnu.edu.cn/), at the school of [East China Normal University](https://www.ecnu.edu.cn/).
 We are located at the Office 301 of the Math Building and the Office 416 of the Science Building, North Zhongshan Rd. Campus, East China Normal University, 3663 N. Zhongshan Rd., Shanghai, China.
 
 地址1: 华东师范大学中山北路校区数学馆301室
 
 地址2: 华东师范大学中山北路校区理科楼416室
 
+{% include section.html full=true %}
 {%
   include link.html
   type="email"
