@@ -1,29 +1,282 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1145/3368089.3417047
+  title: 'FREPA: an automated and formal approach to requirement modeling and analysis
+    in aircraft control domain'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Jincao Feng
+  - Weikai Miao
+  - Hanyue Zheng
+  - Yihao Huang
+  - Jianwen Li
+  - Zheng Wang
+  - Ting Su
+  - Bin Gu
+  - Geguang Pu
+  - Mengfei Yang
+  - Jifeng He
+  publisher: Proceedings of the 28th ACM Joint Meeting on European Software Engineering
+    Conference and Symposium on the Foundations of Software Engineering
+  date: '2020-11-07'
+  link: https://doi.org/ghv388
+  image: images/paperimage/FREPA.jpg
+  tags:
+  - Requirement Analysis
+  _cache: cd7e00cf393834b6252f87ecdef7f0c2a7a5028e7ab5f1fc5bd7ec16fafd277d
+- id: doi:10.1145/3183519.3183554
+  title: Smartunit
+  authors:
+  - Chengyu Zhang
+  - Yichen Yan
+  - Hanru Zhou
+  - Yinbo Yao
+  - Ke Wu
+  - Ting Su
+  - Weikai Miao
+  - Geguang Pu
+  publisher: 'Proceedings of the 40th International Conference on Software Engineering:
+    Software Engineering in Practice'
+  date: '2018-05-27'
+  link: https://doi.org/gkkvdf
+  image: images/paperimage/Smartunit.jpg
+  tags:
+  - Software Analysis and Testing
+  _cache: 52d0cb93aea2d2337625cb08a03fe32c49580029c477a180d4dec3673683b24c
+- id: doi:10.1145/3338906.3338932
+  title: Finding and understanding bugs in software model checkers
+  authors:
+  - Chengyu Zhang
+  - Ting Su
+  - Yichen Yan
+  - Fuyuan Zhang
+  - Geguang Pu
+  - Zhendong Su
+  publisher: Proceedings of the 2019 27th ACM Joint Meeting on European Software Engineering
+    Conference and Symposium on the Foundations of Software Engineering
+  date: '2019-08-12'
+  link: https://doi.org/gq867p
+  image: images/paperimage/MCFuzz.jpg
+  tags:
+  - Software Analysis and Testing
   extra-links:
-  - type: preprint
-    link: https://doi.org/10.7287/peerj.preprints.3100v1
-  - type: manubot
-    link: https://greenelab.github.io/scihub-manuscript/
   - type: source
-    link: https://github.com/greenelab/scihub-manuscript
-    text: Manuscript source
+    link: https://github.com/muchang/Hammer
+  _cache: 623b4deee187c957bb885b5bb6da093e905984bea09c095ff2abb1f0c3f1405a
+- id: doi:10.1145/3385412.3385985
+  title: Validating SMT solvers via semantic fusion
+  authors:
+  - Dominik Winterer
+  - Chengyu Zhang
+  - Zhendong Su
+  publisher: Proceedings of the 41st ACM SIGPLAN Conference on Programming Language
+    Design and Implementation
+  date: '2020-06-06'
+  link: https://doi.org/ghkr6n
+  image: images/paperimage/SMTSolver.jpg
+  tags:
+  - Software Analysis and Testing
+  extra-links:
   - type: source
-    link: https://github.com/greenelab/scihub
-    text: Analyses source
-  _cache: 483a564e9ddf847e6372cafb31de4673771c3e4da664c0d86a7ea7c38c20318d
+    link: https://testsmt.github.io/
+  _cache: 2ad9cfa8a2c4103a308025fa0767b9ee55ce4b28881d2e9167eac26d6d2d9d14
+- id: doi:10.1109/TSE.2020.3013438
+  title: Why My App Crashes? Understanding and Benchmarking Framework-Specific Exceptions
+    of Android Apps
+  authors:
+  - Ting Su
+  - Lingling Fan
+  - Sen Chen
+  - Yang Liu
+  - Lihua Xu
+  - Geguang Pu
+  - Zhendong Su
+  publisher: IEEE Transactions on Software Engineering
+  date: '2022-04-01'
+  link: https://doi.org/gq889c
+  image: images/paperimage/whyAppCrash.jpg
+  tags:
+  - Software Analysis and Testing
+  _cache: 65be95ce5a3353d08457ecea030b614ca8720d7709596470d29419c04aac36ca
+- id: doi:10.1145/3460319.3464806
+  title: Understanding and finding system setting-related defects in Android apps
+  authors:
+  - Jingling Sun
+  - Ting Su
+  - Junxin Li
+  - Zhen Dong
+  - Geguang Pu
+  - Tao Xie
+  - Zhendong Su
+  publisher: Proceedings of the 30th ACM SIGSOFT International Symposium on Software
+    Testing and Analysis
+  date: '2021-07-11'
+  link: https://doi.org/gq889d
+  image: images/paperimage/appSettingBug.jpg
+  tags:
+  - Software Analysis and Testing
+  extra-links:
+  - type: source
+    link: https://github.com/setting-defect-fuzzing/home
+  _cache: 804050113ef28f1b054e1efee6fd00dc7f02138357794331dbc63152776311ff
+- id: doi:10.1145/3485533
+  title: Fully automated functional fuzzing of Android apps for detecting non-crashing
+    logic bugs
+  authors:
+  - Ting Su
+  - Yichen Yan
+  - Jue Wang
+  - Jingling Sun
+  - Yiheng Xiong
+  - Geguang Pu
+  - Ke Wang
+  - Zhendong Su
+  publisher: Proceedings of the ACM on Programming Languages
+  date: '2021-10-20'
+  link: https://doi.org/gnjn7b
+  image: images/paperimage/fuzzapp.jpg
+  tags:
+  - Software Analysis and Testing
+  extra-links:
+  - type: source
+    link: https://github.com/functional-fuzzing-android-apps/home
+  _cache: 888dbcc6bb67bf8be4210b58ea926132cd27f39aa7bff4ab239fdef97c2d1b49
+- id: doi:10.1145/3324884.3416569
+  title: Accelerating all-SAT computation with short blocking clauses
+  authors:
+  - Yueling Zhang
+  - Geguang Pu
+  - Jun Sun
+  publisher: Proceedings of the 35th IEEE/ACM International Conference on Automated
+    Software Engineering
+  date: '2020-12-21'
+  link: https://doi.org/gjqxqm
+  image: images/paperimage/ALLSAT.jpg
+  tags:
+  - Software Analysis and Testing
+  _cache: 0f77316d4c15d5e9e43d19e2bf56c110d052180b172f95a7a8cbc9cd76674e0e
+- id: url:https://iew.technion.ac.il/~ofers/publications/ICCAD_2022.pdf
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://iew.technion.ac.il/~ofers/publications/ICCAD_2022.pdf
+  image: images/paperimage/bmc_car.jpg
+  tags:
+  - Verification
+  _cache: 82eeec12c3d3ead9d4a851a4767b8efa164456131602e1d24c8bd20735fc312f
+- id: doi:10.1109/ICCAD.2017.8203765
+  title: Safety model checking with complementary approximations
+  authors:
+  - Jianwen Li
+  - Shufang Zhu
+  - Yueling Zhang
+  - Geguang Pu
+  - Moshe Y. Vardi
+  publisher: 2017 IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+  date: '2017-11-01'
+  link: https://doi.org/gq9bcz
+  image: images/paperimage/car.jpg
+  tags:
+  - Verification
+  extra-links:
+  - type: source
+    link: https://github.com/lijwen2748/simplecar
+  _cache: 18b682e733caa0b6377c18a7e4d2dba80af81ac0972e28fffd1e410a7bc63dda
+- id: doi:10.1609/aaai.v35i7.16809
+  title: On-the-fly Synthesis for LTL over Finite Traces
+  authors:
+  - Shengping Xiao
+  - Jianwen Li
+  - Shufang Zhu
+  - Yingying Shi
+  - Geguang Pu
+  - Moshe Vardi
+  publisher: Proceedings of the AAAI Conference on Artificial Intelligence
+  date: '2021-05-18'
+  link: https://doi.org/gq889n
+  image: images/paperimage/onthefly.jpg
+  tags:
+  - Logic
+  _cache: d18947826679041e6105cb0c4892e55f71e5a4db141ede74bd0fb0b0aa455c00
+- id: arxiv:1811.03176
+  title: SAT-based Explicit LTLf Satisfiability Checking
+  authors:
+  - Jianwen Li
+  - Kristin Y. Rozier
+  - Geguang Pu
+  - Yueling Zhang
+  - Moshe Y. Vardi
+  publisher: arXiv
+  date: '2018-11-09'
+  link: https://arxiv.org/abs/1811.03176
+  image: images/paperimage/ltlfsat.jpg
+  tags:
+  - Logic
+  _cache: 217fbbe2066b40281b0db028d4e92b1e66fb42a45a6850af39d9658ab2260c51
+- id: doi:10.1007/s10703-018-00326-5
+  title: SAT-based explicit LTL reasoning and its application to satisfiability checking
+  authors:
+  - Jianwen Li
+  - Shufang Zhu
+  - Geguang Pu
+  - Lijun Zhang
+  - Moshe Y. Vardi
+  publisher: Formal Methods in System Design
+  date: '2019-01-02'
+  link: https://doi.org/gh6d7d
+  image: images/paperimage/ltlsat.jpg
+  tags:
+  - Logic
+  _cache: 36523efb65dee9c826fac2a3188d1baea6680623a7713e12393900811849481c
+- id: doi:10.1145/3474085.3475171
+  title: 'AdvFilter: Predictive Perturbation-aware Filtering against Adversarial Attack
+    via Multi-domain Learning'
+  authors:
+  - Yihao Huang
+  - Qing Guo
+  - Felix Juefei-Xu
+  - Lei Ma
+  - Weikai Miao
+  - Yang Liu
+  - Geguang Pu
+  publisher: Proceedings of the 29th ACM International Conference on Multimedia
+  date: '2021-10-17'
+  link: https://doi.org/gq889p
+  image: images/paperimage/AdvFilter.jpg
+  tags:
+  - Computer Vision
+  _cache: 662e320ebff6b710ff3b5ed84692e312ec9c758c10d7fd4a1f68cec771a0a608
+- id: arxiv:2201.06070
+  title: 'ALA: Adversarial Lightness Attack via Naturalness-aware Regularizations'
+  authors:
+  - Liangru Sun
+  - Felix Juefei-Xu
+  - Yihao Huang
+  - Qing Guo
+  - Jiayi Zhu
+  - Jincao Feng
+  - Yang Liu
+  - Geguang Pu
+  publisher: arXiv
+  date: '2022-01-19'
+  link: https://arxiv.org/abs/2201.06070
+  image: images/paperimage/ALA.jpg
+  tags:
+  - Computer Vision
+  _cache: 3babb4a9c81ab0f0a59db2df3763797a29fe4fb79cc4ec2a216574c29aeec986
+- id: arxiv:2001.09598
+  title: 'FakeLocator: Robust Localization of GAN-Based Face Manipulations'
+  authors:
+  - Yihao Huang
+  - Felix Juefei-Xu
+  - Qing Guo
+  - Yang Liu
+  - Geguang Pu
+  publisher: arXiv
+  date: '2021-11-24'
+  link: https://arxiv.org/abs/2001.09598
+  image: images/paperimage/FakeLocator.jpg
+  tags:
+  - Computer Vision
+  _cache: 1572550b1288ab39c2985e4585e45cf63b8c658e2019d86431acada246846fd5
