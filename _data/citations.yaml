@@ -155,16 +155,6 @@
   tags:
   - Software Analysis and Testing
   _cache: 0f77316d4c15d5e9e43d19e2bf56c110d052180b172f95a7a8cbc9cd76674e0e
-- id: url:https://iew.technion.ac.il/~ofers/publications/ICCAD_2022.pdf
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
-  link: https://iew.technion.ac.il/~ofers/publications/ICCAD_2022.pdf
-  image: images/paperimage/bmc_car.jpg
-  tags:
-  - Verification
-  _cache: 82eeec12c3d3ead9d4a851a4767b8efa164456131602e1d24c8bd20735fc312f
 - id: doi:10.1109/ICCAD.2017.8203765
   title: Safety model checking with complementary approximations
   authors:
